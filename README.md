@@ -18,14 +18,6 @@ To install the necessary dependencies, run:
 ```bash
 pip install -r requirements.txt
 
-Setup and Deployment
-Choosing Your Chatbot’s Identity: Decide what your chatbot will specialize in. This could be anything from a chef, painter, or even a relaxing buddy to help you unwind. The role you choose will define the interactions and capabilities of your chatbot.
-
-Logging into Hugging Face: Here, you'll need an account to access the tools required for deploying your chatbot. If you don't have an account, signing up is straightforward and quick.
-
-Navigating to Hugging Face Spaces: Spaces are where the magic happens. This section of Hugging Face allows users to create and manage their applications seamlessly. Navigate to Spaces to get started.
-
-Creating Your Space: Initiate a new space by clicking on 'Create New Space'. It’s important that the name of your Space reflects the chatbot's role, as it helps in identifying the application’s purpose at a glance.
 
 For any question reach me out @Hu4376505@alphacollege.me 
 
